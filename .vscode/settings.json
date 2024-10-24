@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "functional": "cpp",
+        "chrono": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled",
+    "cmake.sourceDirectory": "/home/op/catkin_ws/src/demo_cpp_pkg"
+}
